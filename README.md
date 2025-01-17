@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Acemyzoe
-- 👀 I’m interested in Edge-AI
-- 🌱 I’m currently learning PM
+- 👀 
+- 🌱 
 - 📫 How to reach me ...
 
 <!---
